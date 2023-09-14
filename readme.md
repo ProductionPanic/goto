@@ -49,8 +49,23 @@ Options:
 ```
 
 ### examples
-    * `goto -h down` will navigate you to `~/Downloads/`
-    * `goto wordpress config` could navigate you to './wordpress-website/wp-config/'
+Goto tries to guesse which dir you mean so a command like
+```bash
+goto -h down
+```
+Could run the following 
+```bash
+cd ~/Downloads/
+```
+
+Goto also allowes you to navigate nested directories
+```bash
+goto press config
+```
+Could be use to run the following
+```bash
+cd ./wordpress/wp-config
+```
 
 ## License
 
