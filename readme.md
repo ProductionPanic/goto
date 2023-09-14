@@ -48,6 +48,10 @@ Options:
   --help		show this help message
 ```
 
+### examples
+    * `goto -h down` will navigate you to `~/Downloads/`
+    * `goto wordpress config` could navigate you to './wordpress-website/wp-config/'
+
 ## License
 
 This repository uses an MIT licencse
