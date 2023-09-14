@@ -7,10 +7,9 @@
 |   |_| ||       |  |   |  |       |
 |_______||_______|  |___|  |_______|
 
-```
-
 A simple cli app writen in go that allowes you to 
 easily navigate through your terminal.
+```
 
 ## Contents
 ### [Installation](#installation) 
