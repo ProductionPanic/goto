@@ -58,6 +58,9 @@ Could run the following
 cd ~/Downloads/
 ```
 
+-------------
+
+
 Goto also allowes you to navigate nested directories
 ```bash
 goto press config
