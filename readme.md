@@ -16,6 +16,8 @@ easily navigate through your terminal.
  - How to install the app
 ### [Usage](#usage) 
  - How to use the cli
+*** [Examples](#examples)
+ - Example usage of the goto app
 
 ## Installation
 
@@ -48,7 +50,7 @@ Options:
   --help		show this help message
 ```
 
-### examples
+## Examples
 Goto tries to guesse which dir you mean so a command like
 ```bash
 goto -h down
